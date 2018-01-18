@@ -1,6 +1,6 @@
 //define functions here
 function getIn(){
-  $(p).on("click",function(event){
+  $("p").on("click",function(event){
     alert("Hey!");
   });
 }
