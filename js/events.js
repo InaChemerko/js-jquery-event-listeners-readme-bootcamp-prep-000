@@ -8,6 +8,7 @@ function getIn(){
 $(document).ready(function(){
 
 // call functions here
-getIn();
 
+
+getIn();
 });
