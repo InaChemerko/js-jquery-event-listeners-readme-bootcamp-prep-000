@@ -12,7 +12,7 @@ function frameIt(){
 }
 
 function pressIt(){
-  $("")
+  $("#typing").on("")
 }
 
 $(document).ready(function(){
